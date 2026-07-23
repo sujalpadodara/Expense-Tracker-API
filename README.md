@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Expense Tracker API 
 =======
-# Expense Tracker API 💰
+# Expense Tracker API 
 >>>>>>> fad2d4b (Add README and environment example)
 
 A secure REST API for managing personal expenses built using Node.js, Express.js, MongoDB, and JWT Authentication.
